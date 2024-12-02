@@ -1,6 +1,6 @@
-# audits
+# Audits
 
-#First Flights at CodeHawks
+## First Flights at CodeHawks
 Giving Thanks: https://codehawks.cyfrin.io/c/2024-11-giving-thanks
   Findings: 2
   Severity: High (1), Medium (1)
