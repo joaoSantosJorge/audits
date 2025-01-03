@@ -17,3 +17,5 @@
       - High: 3
       - Medium: 3
       - Low: 2
+
+![Joao-stats](https://github.com/user-attachments/assets/aa5647b5-69b0-4835-ad7d-8ba00463895f)
