@@ -17,5 +17,15 @@
       - High: 3
       - Medium: 3
       - Low: 2
-
-![Joao-stats](https://github.com/user-attachments/assets/aa5647b5-69b0-4835-ad7d-8ba00463895f)
+- **Pieces Protocol**: [https://codehawks.cyfrin.io/c/2025-01-pieces-protocol](https://codehawks.cyfrin.io/c/2025-01-pieces-protocol)
+  - **Findings**: 8
+    - **Severity**:
+      - High: 3
+      - Medium: 4
+      - Low: 1
+- **Dating App**: [[https://codehawks.cyfrin.io/c/2025-01-pieces-protocol](https://codehawks.cyfrin.io/c/2025-02-datingdapp)](https://codehawks.cyfrin.io/c/2025-02-datingdapp)
+  - **Findings**: 5
+    - **Severity**:
+      - High: 2
+      - Medium: 2
+      - Low: 1
