@@ -23,7 +23,7 @@
       - High: 3
       - Medium: 4
       - Low: 1
-- **Dating App**: [[https://codehawks.cyfrin.io/c/2025-01-pieces-protocol](https://codehawks.cyfrin.io/c/2025-02-datingdapp)](https://codehawks.cyfrin.io/c/2025-02-datingdapp)
+- **Dating App**: [https://codehawks.cyfrin.io/c/2025-01-pieces-protocol](https://codehawks.cyfrin.io/c/2025-02-datingdapp)
   - **Findings**: 5
     - **Severity**:
       - High: 2
